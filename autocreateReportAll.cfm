@@ -6,7 +6,7 @@
 ******************************************************************************
 * Revision History:
 * Name:				Date:			Description:
-* Shinpei Kuga		2020-07-09		Added try-catch block to detect failures on scheduled task
+* Shinpei Kuga		2020-07-09n		Added try-catch block to detect failures on scheduled task
 *
 *******************************************************************************/
 
